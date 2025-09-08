@@ -1,0 +1,4 @@
+Installed Node.js v20.16.0 LTS on Windows.
+Opened VS Code terminal inside project folder.
+Ran command: npm install -g sass
+Verified installation with sass --version
