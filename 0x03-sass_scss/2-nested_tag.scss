@@ -1,0 +1,10 @@
+// Remove margin and padding from body
+body {
+  margin: 0px;
+  padding: 0px;
+
+  // Apply margin 10px to all <p> inside body
+  p {
+    margin: 10px;
+  }
+}
